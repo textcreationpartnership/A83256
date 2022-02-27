@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons in Parliament. For the safety and defence of the Kingdom of England, and Dominion of Wales. As it was commanded by both the said houses to be ingrossed, according to the alterations and amendments; the same having been first resolved upon the question by both the said houses, to passe: on Saturday, the 5th of this present March, and so to be printed. Jo. Browne, Cler. Parl.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83256</idno>
+            <idno type="STC">Wing E2033</idno>
+            <idno type="STC">Thomason E137_12</idno>
+            <idno type="STC">ESTC R8921</idno>
+            <idno type="EEBO-CITATION">99873433</idno>
+            <idno type="PROQUEST">99873433</idno>
+            <idno type="VID">156496</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83256)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156496)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E137[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons in Parliament. For the safety and defence of the Kingdom of England, and Dominion of Wales. As it was commanded by both the said houses to be ingrossed, according to the alterations and amendments; the same having been first resolved upon the question by both the said houses, to passe: on Saturday, the 5th of this present March, and so to be printed. Jo. Browne, Cler. Parl.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ioseph Hunscott,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156496:1"/>
+            <pb facs="tcp:156496:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE OF THE Lords and Commons IN PARLIAMENT.</p>
+            <p>FOR The ſafety and defence of the King<g ref="char:EOLhyphen"/>dom of <hi>England,</hi> and Dominion of WALES.</p>
+            <p>AS It was commanded by both the ſaid Houſes to be ingroſſed, according to the alterations and amendments; the ſame having been firſt reſolved upon the Queſtion by both the ſaid Houſes, to paſſe: On <hi>Saturday,</hi> the 5<hi rend="sup">th</hi> of this preſent <hi>March,</hi> and ſo to be printed.</p>
+            <p>
+               <hi>Jo. Browne, Cler. Parl.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Ioſeph Hunſcott.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:156496:2"/>
+            <pb n="3" facs="tcp:156496:2"/>
+            <head>AN ORDINANCE OF The Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment for the ſafety and defence of the Kingdom of ENGLAND, and Dominion of WALES.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas there hath been of late a moſt dangerous and deſperate deſign upon the Houſe of Commons, Which we have juſt cauſe to beleeve to be an effect of the bloudy Councells of Papiſts, and other ill affected Perſons, who have already raiſed a rebellion in the Kingdom of <hi>Ireland.</hi> And by reaſon of many diſcoveries, we cannot but fear they will proceed, not only to ſtirre up the like
+<pb n="4" facs="tcp:156496:3"/>
+rebellion and inſurrections in this Kingdom of <hi>England,</hi> but alſo to back them with Forces from abroad.</p>
+            <p>For the ſafety therefore of his Majeſties Per<g ref="char:EOLhyphen"/>ſon, the Parliament and Kingdom, in this time of imminent danger,</p>
+            <p>It is Ordained by the Lords and Commons now in Parliament aſſembled, That <hi>Henry,</hi> Earl of Holland, ſhall be Lievtenant of the County of <hi>Berks: Oliver,</hi> Earl of Bullingbrooke, ſhall be Lievtenant of the County of <hi>Bedford: William,</hi> Lord <hi>Paget,</hi> ſhall be Lievtenant of the County of <hi>Buckingham: Dudly,</hi> Lord <hi>North,</hi> ſhall be Liev<g ref="char:EOLhyphen"/>tenant of the County of <hi>Cambridge,</hi> and the Iſle of <hi>Ely: James,</hi> Lord <hi>Strange,</hi> ſhall be Lievtenant of the County of <hi>Cheſter,</hi> and the County of the City of <hi>Cheſter: Iohn,</hi> Lord <hi>Roberts,</hi> ſhall be Lievtenant of the County of <hi>Cornwall: Willi<g ref="char:EOLhyphen"/>am,</hi> Lord <hi>Gray,</hi> of <hi>Warke,</hi> ſhall be Lievtenant of the County of <hi>Cumberland: Iohn,</hi> Earl of <hi>Rut<g ref="char:EOLhyphen"/>land,</hi> ſhall be Lievtenant of the County of <hi>Der<g ref="char:EOLhyphen"/>by: William,</hi> Earl of <hi>Bedford,</hi> ſhall be Lievtenant of the County of <hi>Devon,</hi> and the County of the City of <hi>Exceter:</hi> Sir <hi>Iohn Banks,</hi> Knight, Lord
+<pb n="5" facs="tcp:156496:3"/>
+Chief Juſtice of the <hi>Common-Pleas,</hi> ſhall be Liev<g ref="char:EOLhyphen"/>tenant of the Iſle of <hi>Purbeck,</hi> and Conſtable of <hi>Corff</hi> Caſtle, in the County of <hi>Dorſet: William,</hi> Earl of <hi>Salisbury,</hi> ſhall be Lievtenant of the County of <hi>Dorſet,</hi> and the County and Town of <hi>Pool:</hi> Sir <hi>Henry Vane Senior,</hi> ſhall be Lievte<g ref="char:EOLhyphen"/>nant of the County Palatine of <hi>Durham: Robert,</hi> Earl of <hi>Warwick,</hi> ſhall be Lievtenant of the County of <hi>Eſſex: George,</hi> Lord <hi>Chandoys,</hi> ſhall be Lievtenant of the County of <hi>Glouceſter,</hi> and the County of the City of <hi>Glouceſter: Philip,</hi> Earl of <hi>Pembroke</hi> and <hi>Mountgomery,</hi> ſhall be Lievte<g ref="char:EOLhyphen"/>nant of the County of <hi>Southampton,</hi> the Towne and County of <hi>Southampton,</hi> and the Iſle of <hi>Weight: William</hi> Earle of <hi>Salisbury</hi> ſhall be Lievtenant of the County of <hi>Hertford: Francis</hi> Lord <hi>Dacres</hi> ſhall be Lievtenant of the County of <hi>Hereford: Edward</hi> Lord <hi>Kimbolton</hi> ſhall bee Lievtenant of the County of <hi>Huntington: Robert</hi> Earl of <hi>Leiceſter,</hi> Lord Lievtenant of IRELAND, ſhall be Lievtenant of the County of <hi>Kent,</hi> and the City and County of <hi>Canterbury: Philip,</hi> Lord <hi>Wharton,</hi> ſhall be Lievtenant of the County of <hi>Lancaſter: Henry,</hi> Earl of <hi>Stamford,</hi> ſhall be
+<pb n="6" facs="tcp:156496:4"/>
+Lievtenant of the County of <hi>Leiceſter: Theophilus,</hi> Earl of <hi>Lincoln,</hi> ſhall be Lievtenant of the Ports <hi>Kſlaven,</hi> and <hi>Holland,</hi> within the County of <hi>Lincoln,</hi> and for the County of the City of <hi>Lincoln: Francis,</hi> Lord <hi>Willoughby</hi> of <hi>Parham,</hi> ſhall be Lievtenant of the Parts of <hi>Lindſey,</hi> within the County of <hi>Lincoln: Henry,</hi> Earl of <hi>Holland</hi> ſhall be Lievtenant of the County of <hi>Middleſex: Hen<g ref="char:EOLhyphen"/>ry,</hi> Lord <hi>Spencer</hi> ſhall be Lievtenant of the Coun<g ref="char:EOLhyphen"/>ty of <hi>Northampton: Iohn,</hi> Earl of <hi>Clare,</hi> ſhall be Lievtenant of the County of <hi>Nottingham,</hi> and the Town and County of <hi>Nottingham: Al<g ref="char:EOLhyphen"/>gernoon,</hi> Earl of <hi>Northumberland,</hi> Lord high Ad<g ref="char:EOLhyphen"/>mirall of <hi>England,</hi> ſhall be Lievtenant of the County of <hi>Northumberland,</hi> and Town and County of <hi>Newcaſtle</hi> upon <hi>Tyne,</hi> and Port of <hi>Barwick: Robert,</hi> Earl of <hi>Warwick</hi> ſhall be Liev<g ref="char:EOLhyphen"/>tenant of the County of <hi>Norfolk,</hi> and the Coun<g ref="char:EOLhyphen"/>ty and City of <hi>Norwich: William,</hi> Lord Viſcount <hi>Say</hi> and <hi>Seal</hi> ſhall be Lievtenant of the County of <hi>Oxford: David,</hi> Earl of <hi>Exon</hi> ſhall be Lievte<g ref="char:EOLhyphen"/>nant of the County of <hi>Rutland: Edward,</hi> Lord <hi>Littleton,</hi> Lord Keeper of the great Seal of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> ſhall be Lievtenant of the County of <hi>Salop:</hi>
+               <pb n="7" facs="tcp:156496:4"/>
+               <hi>William,</hi> Marqueſſe of <hi>Hertford</hi> ſhall be Lievte<g ref="char:EOLhyphen"/>nant of the County of <hi>Somerſet: Robert,</hi> Earl of <hi>Eſſex,</hi> Lord Chamberlain of his Majeſties Houſ<g ref="char:EOLhyphen"/>hold, ſhall be Lievtenant of the County of <hi>Staf<g ref="char:EOLhyphen"/>ford,</hi> and the County of the City of <hi>Lichfield: Iames,</hi> Earl of <hi>Suffolk</hi> ſhall be Lievtenant of the County of <hi>Suffolk: Charles,</hi> Earl of <hi>Nottingham</hi> ſhall be Lievtenant of the County of <hi>Surrey: Al<g ref="char:EOLhyphen"/>gernoon,</hi> Earl of <hi>Northumberland,</hi> Lord high Ad<g ref="char:EOLhyphen"/>mirall of ENGLAND, ſhall be Liev<g ref="char:EOLhyphen"/>tenant of the County of <hi>Suſſex: Robert,</hi> Lord <hi>Brook,</hi> ſhall be Lievtenant of the County of <hi>War<g ref="char:EOLhyphen"/>wick,</hi> and of the City and County of <hi>Coventry: Henry,</hi> Earl of <hi>Cumberland</hi> ſhall be Lievtenant of the County of <hi>Weſtmerland: Philip,</hi> Earl of <hi>Pem<g ref="char:EOLhyphen"/>broke</hi> and <hi>Mountgomery,</hi> ſhall be Lievtenant of the County of <hi>Wilts: Edward,</hi> Lord <hi>Howard</hi> of <hi>Eſcrigg,</hi> ſhall be Lievtenant of the County of <hi>Worceſter,</hi> and the County of the City of <hi>Worce<g ref="char:EOLhyphen"/>ſter: Denzell Hollis,</hi> Eſquire, ſhall be Lievtenant of the County and City of <hi>Briſtoll: Robert,</hi> Earl of <hi>Eſſex</hi> ſhall be Lievtenant of the County of <hi>York,</hi> the County of the City of <hi>York,</hi> and the Town and County of <hi>Kingſton</hi> upon <hi>Hull: Phi<g ref="char:EOLhyphen"/>lip,</hi>
+               <pb n="8" facs="tcp:156496:5"/>
+Lord <hi>Herbert</hi> ſhall be Lievtenant of the Coun<g ref="char:EOLhyphen"/>tie of <hi>Monmouth: Algernoon,</hi> Earl of <hi>Northumber<g ref="char:EOLhyphen"/>land</hi> ſhall be Lievtenant of the Iſle of <hi>Angleſey: Philip,</hi> Lord <hi>Herbert</hi> ſhall be Lievtenant of the County of <hi>Brecknock: Richard,</hi> Earl of <hi>Carbery</hi> in the Kingdom of <hi>Ireland,</hi> ſhall be Lievtenant of the County of <hi>Cardigan: Richard,</hi> Earl of <hi>Car<g ref="char:EOLhyphen"/>bery</hi> in the Kingdom of <hi>Ireland,</hi> ſhall be Lievte<g ref="char:EOLhyphen"/>nant of the Countie of <hi>Carmarthen,</hi> and the County of the Burrough of <hi>Carmarthen: Philip,</hi> Earl of <hi>Pembroke</hi> and <hi>Mountgomery</hi> ſhall be Liev<g ref="char:EOLhyphen"/>tenant of the County of <hi>Carnarvon: Baſill,</hi> Lord <hi>Newenham</hi> ſhall be Lievtenant of the Countie of <hi>Denbigh: Baſill,</hi> Lord <hi>Newenham</hi> ſhall be Liev<g ref="char:EOLhyphen"/>tenant of the Countie of <hi>Flints: Philip,</hi> Lord <hi>Her<g ref="char:EOLhyphen"/>bert</hi> ſhall be Lievtenant of the Countie of <hi>Glamor<g ref="char:EOLhyphen"/>gan: Robert,</hi> Earl of <hi>Eſſex</hi> ſhall be Lievtenant of the Countie of <hi>Mountgomery: Philip,</hi> Earl of <hi>Pem<g ref="char:EOLhyphen"/>broke</hi> and <hi>Mountgomery,</hi> ſhall be Lievtenant of the Countie of <hi>Merioneth: Edward,</hi> Lord <hi>Littleton,</hi> Lord Keeper of the great Seal of <hi>England,</hi> ſhall be Lievtenant of the Countie of <hi>Radnor: Alger<g ref="char:EOLhyphen"/>noon,</hi> Earl of <hi>Northumberland,</hi> ſhall be Lievtenant of the Countie of <hi>Pembroke,</hi> and the Town and Countie of <hi>Haverford Weſt.</hi>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:156496:5"/>
+And ſhall ſeverally and reſpectively have power to aſſemble and call together, all and ſingular his Majeſties ſubjects within the ſaid ſeverall and re<g ref="char:EOLhyphen"/>ſpective Counties and places, as well within li<g ref="char:EOLhyphen"/>berties as without, that are meet and fit for the Warres, and them to traine, exerciſe, and put in readineſſe, and them after their abilities and fa<g ref="char:EOLhyphen"/>culties well and ſufficiently from time to time, to cauſe to be arrayed and weaponed; and to take the Muſter of them in places moſt fit for that pur<g ref="char:EOLhyphen"/>poſe. And the aforeſaid <hi>Henry</hi> Earle of <hi>Holland, Oliver</hi> Earle of <hi>Bullingbrooke, William</hi> Lord <hi>Paget, Dudley</hi> Lord <hi>North, James</hi> Lord <hi>Strange, Iohn</hi> Lord <hi>Roberts, William</hi> Lord <hi>Gray</hi> of <hi>Warke, John</hi> Earle of <hi>Rutland, William</hi> Earle of <hi>Bedford,</hi> Sir <hi>Iohn Banks</hi> Lord chiefe Iuſtice of the Common Pleas, <hi>Willi<g ref="char:EOLhyphen"/>am</hi> Earle of <hi>Salisbury,</hi> Sir <hi>Henry Vane</hi> Senior, <hi>Ro<g ref="char:EOLhyphen"/>bert</hi> Earle of <hi>Warwick, George</hi> Lord <hi>Chandoys, Phi<g ref="char:EOLhyphen"/>lip</hi> Earle of <hi>Pembrooke</hi> and <hi>Mountgomery, Francis</hi> Lord <hi>Dacres, Edward</hi> Lord <hi>Kymbolton, Robert</hi> Earle of <hi>Leiceſter, Philip</hi> Lord <hi>Wharton, Henry</hi> Earle of <hi>Stamford, Theophilas</hi> Earle of <hi>Lincolne, Francis</hi> Lord <hi>Willoughby</hi> of <hi>Parham, Henry</hi> Lord <hi>Spencer, John</hi> Earle of <hi>Clare, Algernoone</hi> Earle of <hi>Northumberland, William</hi> Lord Viſcount Say and Seale, <hi>David</hi> Earle of <hi>Oxon, Edward</hi> Lord <hi>Littleton</hi> Lord Keeper of
+<pb n="10" facs="tcp:156496:6"/>
+the great Seale of <hi>England, William</hi> Marqueſſe of <hi>Hertford, Robert</hi> Earle of <hi>Eſſex,</hi> Iames Earle of <hi>Suffolk, Charles</hi> Earle of <hi>Nottingham, Robert</hi> Lord <hi>Brooke, Henry</hi> Earle of <hi>Cumberland, Edward</hi> Lord <hi>Howard</hi> of <hi>Eſtrich, Denzill Hollis</hi> Eſquire, <hi>Philip</hi> Lord <hi>Herbert, Richard</hi> Earle of <hi>Corbery</hi> and <hi>Ba<g ref="char:EOLhyphen"/>zill,</hi> Lord <hi>Newenham,</hi> ſhall ſeverally and reſpe<g ref="char:EOLhyphen"/>ctively have Power within the ſeverall and re<g ref="char:EOLhyphen"/>ſpective Counties and Places aforeſaid, to nomi<g ref="char:EOLhyphen"/>nate and appoint ſuch Perſons of Qualitie, as to them ſhall ſeeme meet to be their Deputy-Lieu<g ref="char:EOLhyphen"/>tenants, to be approved of by both Houſes of Parliament.</p>
+            <p>And that any one or more of the ſaid Depu<g ref="char:EOLhyphen"/>ties ſo aſſigned and approved of in the abſence, or by the Command of the ſaid <hi>Henry</hi> Earle of <hi>Holland, Oliver</hi> Earle of <hi>Bullingbrooke, William</hi> Lord <hi>Paget, Dudley</hi> Lord <hi>North, Iames</hi> Lord <hi>Strange, Iohn</hi> Lord <hi>Roberts, William</hi> Lord <hi>Gray</hi> of <hi>Warke, Iohn</hi> Earle of <hi>Rutland, William</hi> Earle of <hi>Bedford,</hi> Sir <hi>Iohn Banks</hi> Knight, Lord chiefe Iuſtice of the Com<g ref="char:EOLhyphen"/>mon Pleas, <hi>William</hi> Earle of <hi>Salisbury,</hi> Sir <hi>Henry Vane</hi> Senior, <hi>Robert</hi> Earle of <hi>Warwick, George</hi> Lord <hi>Chamdoys, Philip</hi> Earle of <hi>Pembrooke</hi> and <hi>Mount<g ref="char:EOLhyphen"/>gomery, Francis</hi> Lord <hi>Dacres, Edward</hi> Lord <hi>Kym<g ref="char:EOLhyphen"/>bolton, Robert</hi> Earle of <hi>Leiceſter, Philip</hi> Lord <hi>Whar<g ref="char:EOLhyphen"/>ton,</hi>
+               <pb n="11" facs="tcp:156496:6"/>
+               <hi>Henry</hi> Earle of <hi>Stamfort, Theophilus</hi> Earle of <hi>Lincol<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, Francis</hi> Lord <hi>Willoughby</hi> of <hi>Parham, Hen<g ref="char:EOLhyphen"/>ry</hi> Lord <hi>Spencer, Iohn</hi> Earl of <hi>Clare, Algernoun</hi> Earl of <hi>Northumberland, William</hi> Lord <hi>Viſcount Say</hi> and <hi>Seale, David</hi> Earl of <hi>Exon. Edward</hi> Lord <hi>Littleton,</hi> Lord Keeper of the great Seal of <hi>England, William</hi> Marqueſſe of <hi>Hertford, Robert</hi> Earl of <hi>Eſſex, James</hi> Earl of <hi>Suffolke, Charles</hi> Earl of <hi>Nottingham, Robert</hi> Lord <hi>Bro<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k, Henry</hi> Earl of <hi>Cumberland, Edward</hi> Lord <hi>Howard</hi> of <hi>Effingham, Denzil Hollis</hi> Eſquire, <hi>Philip</hi> Lord <hi>Herbert, Richard</hi> Earl of <hi>Corbery</hi> in the Kingdom of <hi>Ireland,</hi> and <hi>Bazill</hi> Lord <hi>Newenham,</hi> ſhall have power and Authoritie to do and exe<g ref="char:EOLhyphen"/>cute within the ſaid ſeverall and reſpective Coun<g ref="char:EOLhyphen"/>ties and Places to them aſſigned as aforeſaid; all ſuch Powers and Authorities before in this pre<g ref="char:EOLhyphen"/>ſent Ordinance contained. And the aforeſaid <hi>Henry</hi> Earl of <hi>Holland, Oliver</hi> Earl of <hi>Bullingbrook, William</hi> Lord <hi>Paget, Dudley</hi> Lord <hi>North, Iames</hi> Lord <hi>Strange, Iohn</hi> Lord <hi>Roberts, William</hi> Lord <hi>Gray</hi> of <hi>Warke, Iohn</hi> Earl of <hi>Rutland, William</hi> Earl of <hi>Bedford,</hi> Sir <hi>John Banks</hi> Knight, <hi>William</hi> Earl of <hi>Salisbury,</hi> Sir <hi>Henry Pane Senior, Robert</hi> Earl of <hi>Warwick, George</hi> Lord <hi>Chandoys, Phil<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p</hi> Earl of <hi>Pembroke</hi> and <hi>Moungomery, Francis</hi> Lord <hi>Da<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>res, Edward</hi> Lord <hi>Kymbolton, Robert</hi> Earl of <hi>Leiceſter,</hi>
+               <pb n="12" facs="tcp:156496:7"/>
+               <hi>Philip</hi> Lord <hi>Wharton, Henry</hi> Earl of <hi>Stamford, Theo<g ref="char:EOLhyphen"/>philus</hi> Earl of <hi>Lincolne, Francis</hi> Lord <hi>Willoughbie</hi> of <hi>Parham, Henry</hi> Lord <hi>Spencer, Iohn</hi> Earl of <hi>Clare, Al<g ref="char:EOLhyphen"/>gernoone</hi> Earl of <hi>Northumberland, William</hi> Lord Viſ<g ref="char:EOLhyphen"/>count <hi>Say</hi> and <hi>Seale, David</hi> Earl of <hi>Exeter, Edward</hi> Lord <hi>Littleton,</hi> Lord Keeper of the great Seal of <hi>England, William</hi> Lord Marqueſſe of <hi>Hertford, Ro<g ref="char:EOLhyphen"/>bert</hi> Earl of <hi>Eſſex, Iames</hi> Earl of <hi>Suffolke, Charles</hi> Earl of <hi>Nottingham, Robert</hi> Lord <hi>Brook, Henry</hi> Earl of <hi>Cumberland, Edward</hi> Lord <hi>Howard</hi> of <hi>Eſtrich, Denzill Hollis</hi> Eſquire, <hi>Philip</hi> Lord <hi>Herbert, Ri<g ref="char:EOLhyphen"/>chard</hi> Earl of <hi>Corbery</hi> and <hi>Bazill,</hi> Lord <hi>Newenham,</hi> ſhall have power to make Collonels, and Cap<g ref="char:EOLhyphen"/>tains, and other Officers, and to remove out of their Places, and make others from time to time, as they ſhall thinke fit for that purpoſe. And the ſaid <hi>Henry</hi> Earle of <hi>Holland, Oliver</hi> Earle of <hi>Bul<g ref="char:EOLhyphen"/>lingbrooke, William</hi> Lord <hi>Paget, Dudley</hi> Lord <hi>North, James</hi> Lord <hi>Strange, Iohn</hi> Lord <hi>Roberts, William</hi> Lord <hi>Gray</hi> of <hi>VVarke, Iohn</hi> Earl of <hi>Rutland, William</hi> Earle of <hi>Bedford,</hi> Sir <hi>John Banks,</hi> Knight, Lord chiefe Iuſtice of the Commons Pleas, <hi>William</hi> Earle of <hi>Salisbury,</hi> Sir <hi>Henry Vane</hi> Senior, <hi>Robert</hi> Earle of <hi>Warwicke, George</hi> Lord <hi>Chandoys, Philip</hi> Earle of <hi>Pembrooke, Francis</hi> Lord <hi>Dacres, Edward</hi> Lord <hi>Kymbolton, Robert</hi> Earle of <hi>Leiceſter, Philip</hi>
+               <pb n="13" facs="tcp:156496:7"/>
+Lord <hi>Wharton, Henry</hi> Earle of <hi>Stamford, Theophilus</hi> Earle of <hi>Lincolne, Francis</hi> Lord <hi>VVilloughby</hi> of <hi>Par<g ref="char:EOLhyphen"/>ham, Henry</hi> Lord <hi>Spencer, John</hi> Earle of <hi>Clare, Al<g ref="char:EOLhyphen"/>gernoone</hi> Earle of <hi>Northumberland, VVilliam</hi> Lord Viſcount Say and Seale, <hi>David</hi> Earle of <hi>Oxon, Ed<g ref="char:EOLhyphen"/>ward</hi> Lord <hi>Littleton,</hi> Lord Keeper of the great Seale of <hi>England, VVilliam</hi> Marqueſſe of <hi>Hertford, Ro<g ref="char:EOLhyphen"/>bert</hi> Earle of <hi>Eſſex, Iames</hi> Earle of <hi>Suffolke, Charles</hi> Earle of <hi>Nottingham, Robert</hi> Lond <hi>Brooke, Henry</hi> Earle of <hi>Cumberland, Edward</hi> Lord <hi>Howard</hi> of <hi>E<g ref="char:EOLhyphen"/>ſtrich, Denzill Hollis</hi> Eſquire, <hi>Philip</hi> Lord <hi>Herbert, Richard</hi> Earle of <hi>Corbery</hi> and <hi>Bazill,</hi> Lord <hi>Newen<g ref="char:EOLhyphen"/>ham,</hi> their Deputy or Deputies in their abſence, or by their Command, ſhall have power to lead, Conduct, and Imploy the perſons aforeſaid, ar<g ref="char:EOLhyphen"/>rayed, and weaponed for the ſuppreſſion of all Rebellions, Inſurrections, and Invaſions that may happen within the ſeverall and reſpective Counties and Places. And ſhall have further power and authoritie, to lead, conduct, and im<g ref="char:EOLhyphen"/>ploy the Perſons aforeſaid, arrayed and weapon<g ref="char:EOLhyphen"/>ed, as well within their ſaid ſeverall and reſpe<g ref="char:EOLhyphen"/>ctive Counties and Places, as within any other part of this Realm of <hi>England,</hi> or Dominion of Wales, for the ſuppreſſion of all Rebellions, In<g ref="char:EOLhyphen"/>ſurrections, and Invaſions that may happen ac<g ref="char:EOLhyphen"/>cording
+<pb n="14" facs="tcp:156496:8"/>
+as they from time to time ſhall receive directions from the Lords and Commons aſſem<g ref="char:EOLhyphen"/>bled in <hi>Parliament.</hi>
+            </p>
+            <p>And be it further ordained, That Sir <hi>Iohn Gaire,</hi> Sir <hi>Iacob Garret,</hi> Knights, and Aldermen, <hi>Thomas Atkin</hi> Alderman, Sir <hi>John Wallaſton</hi> Knight and Alderman, <hi>Iohn Warner, Iohn Towes</hi> Aldermen, Sergeant Major, Generall <hi>Skippon,</hi> or any three or more of them, together with <hi>Randolph Manwa<g ref="char:EOLhyphen"/>ring, William Gibs, Iohn Fowke, Iames Bunce, Fran<g ref="char:EOLhyphen"/>cis Peck, Samuel Warner, James Ruſſell, Nathaneel Wright, William Barkley, Alexander Norington, Stephen Eſtwick, Owen Rowe,</hi> Citizens of <hi>London,</hi> or any ſix or more of them, ſhall have ſuch Power and Authoritie within the City of London and the Liberties thereof, as any of the Lieutenants before named, are authoriſed to have by this Or<g ref="char:EOLhyphen"/>dinance within their ſaid ſeverall and reſpective Counties (the nomination and appointment of Deputy Lieutenants onely excepted.) And it is further ordained, that ſuch Perſons as ſhall not obey in any of the Premiſſes, ſhall anſwer their neglect and contempt as the Lords and Com<g ref="char:EOLhyphen"/>mons in a Parliamentarie way and not otherwiſe, nor elſewhere. And that every the Powers grant<g ref="char:EOLhyphen"/>ed
+<pb n="15" facs="tcp:156496:8"/>
+as aforeſaid, ſhall continue, untill it ſhall bee otherwiſe ordered or declared by both Houſes of Parliament, and no longer.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
